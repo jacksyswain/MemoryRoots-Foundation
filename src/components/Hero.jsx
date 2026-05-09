@@ -21,7 +21,7 @@ export default function Hero() {
       {/* 🌱 GRID PATTERN */}
       <div className="absolute inset-0 opacity-[0.03] bg-[linear-gradient(to_right,#ffffff_1px,transparent_1px),linear-gradient(to_bottom,#ffffff_1px,transparent_1px)] bg-[size:80px_80px]" />
 
-      {/* 🌍 MAIN CONTAINER */}
+      
       <div className="relative z-10 max-w-7xl mx-auto px-6 pt-36 pb-24 grid lg:grid-cols-2 gap-20 items-center">
 
         {/* LEFT CONTENT */}
